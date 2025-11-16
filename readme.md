@@ -251,10 +251,9 @@ Se aparecer quadrado → fonte não aplicada.
 
 # 🧊 10. Prévia do Resultado Final
 
-```txt
-app-controle-de-agua on  main  📦 v1.0.0+1   v3.10.0  
-❯
-```
+
+<img width="545" height="43" alt="image" src="https://github.com/user-attachments/assets/56853293-3719-4262-bcba-31ffe10e7641" />
+
 
 ---
 
